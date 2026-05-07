@@ -177,7 +177,6 @@ management api http-commands
 ```eos
 !
 username arista privilege 15 role network-admin secret sha512 <removed>
-username arista ssh-key ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5GTCLlxdTvLlmHqkmjseoCerUQ0nPtLM81qEfOr/XuYtXmZJxoQtfkOmhNigyXSFrhzPjpa1ocQyW3eWo4x5zW7SW0J0d25H5chnn1e/CnnjMbQ22skY6GBtvEiudMvD+7LIPxhHZYP4GvMcy8+y+9xfg4w0F5hVSf6QMoOl8dIbwNv2JUBi1CWADM2YQy55gOrQyxNcJgPZT/+3VsUA50/LxTyWoJrmd5mIWBAjCAIp6HIYMCriNr2KTYtrmK9L3zWn1SduxondQOXhbI+kVv8oi9U3DI+FRJgu5ogJl7Ngq+x0jBRPRNPPsRNQVEsAkjB0XvySIWSeaJfSMZnhV arista@lps-atd-lab-1-1893882f-eos
 ```
 
 ### Enable Password

@@ -111,9 +111,7 @@ local_users:
 - name: arista
   privilege: 15
   role: network-admin
-  sha512_password: $6$arista$D524g9zgnfBjbl8p/zMRi.Bf5d2b0LTSeDb1xyD2mbKk2ANmLqDyozu0SREPS4ovkCKDHyFWHo7XpWTO0y3df.
-  ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5GTCLlxdTvLlmHqkmjseoCerUQ0nPtLM81qEfOr/XuYtXmZJxoQtfkOmhNigyXSFrhzPjpa1ocQyW3eWo4x5zW7SW0J0d25H5chnn1e/CnnjMbQ22skY6GBtvEiudMvD+7LIPxhHZYP4GvMcy8+y+9xfg4w0F5hVSf6QMoOl8dIbwNv2JUBi1CWADM2YQy55gOrQyxNcJgPZT/+3VsUA50/LxTyWoJrmd5mIWBAjCAIp6HIYMCriNr2KTYtrmK9L3zWn1SduxondQOXhbI+kVv8oi9U3DI+FRJgu5ogJl7Ngq+x0jBRPRNPPsRNQVEsAkjB0XvySIWSeaJfSMZnhV
-    arista@lps-atd-lab-1-1893882f-eos
+  sha512_password: $6$arista$uXgTMnD31EgE1TzaoJ0C9uGuhXQcqd4SXU8CGDs7.XsLKGO1meofVcmHFCr/NZSnspkOUKDr/OZPXXLtqKBmy0
 loopback_interfaces:
 - name: Loopback0
   description: ROUTER_ID
